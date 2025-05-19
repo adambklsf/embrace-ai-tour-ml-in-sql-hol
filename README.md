@@ -39,3 +39,14 @@ We will:
 By the end of this lab, you'll have practical experience applying these functions to solve real-world travel analytics problems, empowering you to bring ML insights into your daily work.
 
 Let's get started!
+
+
+### Resources:
+For further details on the functions used:
+* [Snowflake Cortex ML Functions Overview](https://docs.snowflake.com/en/user-guide/snowflake-cortex/ml-functions)
+* [SNOWFLAKE.ML.FORECAST](https://docs.snowflake.com/en/user-guide/ml-powered-forecasting)
+* [SNOWFLAKE.ML.ANOMALY_DETECTION](https://docs.snowflake.com/en/user-guide/ml-powered-anomaly-detection)
+* [SNOWFLAKE.CORTEX.SENTIMENT](https://docs.snowflake.com/en/sql-reference/functions/sentiment)
+* [SNOWFLAKE.CORTEX.CLASSIFY_TEXT](https://docs.snowflake.com/en/sql-reference/functions/classify)
+* [Tasks](https://docs.snowflake.com/en/user-guide/tasks-intro)
+* [Stored Procedures](https://docs.snowflake.com/en/developer-guide/stored-procedure/stored-procedures-overview)
