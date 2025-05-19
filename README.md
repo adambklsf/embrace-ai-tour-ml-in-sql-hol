@@ -16,7 +16,7 @@ For further details on ML Functions, please refer to the [snowflake documentatio
 
 ### Prerequisites
 * Working knowledge of SQL
-* A Snowflake account login with appropriate roles to create databases, schemas, tables, stages, tasks, and use Cortex functions.
+* A Snowflake account login with appropriate roles to create databases, schemas, tables, stages, tasks, and use Cortex functions. [Signup for Trial Account](https://signup.snowflake.com/)
 
 ### What You’ll Learn
 * How to use Anomaly Detection & Forecasting ML Functions to create models and predict passenger numbers for Wanderlust Voyages.
